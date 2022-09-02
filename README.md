@@ -5,7 +5,7 @@ This formulation was introduced by [Dantzig, Fulkerson, and Johnson (1954)](http
 
 ## Usage and Dependencies
 * Codes are written in Python using [Pyomo framework](https://pyomo.org).
-* Solved with Gurobi optimization solver (under an academic license).
+* Solved with [Gurobi optimization solver](https://www.gurobi.com/) (under an academic license).
 
 ## License
 This software is licensed under the MIT License. See file LICENSE for more information.
